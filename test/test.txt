@@ -1,0 +1,7 @@
+Hello, my name is blank and i like to program in c.
+C is the best language to learn first because it is the closest language to assembly without being assembly.
+What is the best programming language?
+Is there such a thing?
+Maybe the best is in the eye of the beholder?
+Don't you agree?
+
