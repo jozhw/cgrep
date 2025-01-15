@@ -1,0 +1,9 @@
+# Compiled executables
+*.out
+a.out
+$(TARGET)
+
+cgrep*
+
+# Object files
+obj/
