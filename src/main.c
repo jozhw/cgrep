@@ -4,9 +4,6 @@
 #include "search_file/search_file.h"
 
 
-const int LINE_SIZE = 1024;
-
-
 // char *argv[] represents an array of strings
 int main(int argc, char *argv[]){
 
